@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+langchain-ollama
+firecrawl
+gradio
+python-dotenv
+requests
+litellm
+elevenlabs
